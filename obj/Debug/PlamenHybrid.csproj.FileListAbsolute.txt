@@ -1,0 +1,49 @@
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\RestSharp.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Text.Json.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\RestSharp.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Text.Json.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\Plamen_s_Hybrid.Form1.resources
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\PlamenHybrid.Properties.Resources.resources
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\PlamenHybrid.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\PlamenHybrid.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\PlamenHybrid.csproj.CopyComplete
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\PlamenHybrid.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\RestSharp.Newtonsoft.Json.Extensions.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\RestSharp.Serializers.NewtonsoftJson.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\RestSharp.Serializers.SystemTextJson.dll
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\RestSharp.Newtonsoft.Json.Extensions.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\RestSharp.Serializers.NewtonsoftJson.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\RestSharp.Serializers.SystemTextJson.xml
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Plamen's Hybrid.exe.config
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Plamen's Hybrid.exe
+C:\Users\User\source\repos\Plamen's Hybrid\bin\Debug\Plamen's Hybrid.pdb
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\Plamen's Hybrid.exe
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\Plamen's Hybrid.pdb

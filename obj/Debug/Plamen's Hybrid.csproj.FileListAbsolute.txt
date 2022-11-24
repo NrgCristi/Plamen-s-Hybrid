@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\Plamen's Hybrid.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\Plamen_s_Hybrid.Form1.resources
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\Plamen_s_Hybrid.Properties.Resources.resources
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\Plamen's Hybrid.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Plamen's Hybrid\obj\Debug\Plamen's Hybrid.csproj.CoreCompileInputs.cache
